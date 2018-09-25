@@ -1,0 +1,33 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+    // files setting
+    "files.associations": {
+        "*.txt": "markdown",
+        "*.json.txt": "json"
+    },
+
+    // editor setting
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+
+    // git setting
+    "git.path": "{path to git}",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.defaultCloneDirectory": "{workspace directory path}",
+
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": true,
+    "typescript.check.npmIsInstalled": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // python setting
+    "python.pythonPath": "{path to python}",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Args": [
+        "--max-line-length=120"
+    ]
+}
