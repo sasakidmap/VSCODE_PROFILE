@@ -35,3 +35,11 @@ mkdir -p /{workspace}
 
 - [pyenv使うならコッチ](http://dev.classmethod.jp/tool/python-pyenv-vscode/)
 - [pyenvなしでいいならコッチ](http://blog.kokoni.jp/2017/03/09/vs-code%E3%81%A7python%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B/)
+
+## Extentions
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
