@@ -43,3 +43,6 @@ mkdir -p /{workspace}
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Dark-Dracula Theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Dark-Dracula#review-details)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)

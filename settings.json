@@ -1,5 +1,9 @@
-// 既定の設定を上書きするには、このファイル内に設定を挿入します
 {
+    // theme setting
+    "workbench.colorTheme": "Dark-Dracula",
+    "material-icon-theme.folders.theme": "specific",
+    "workbench.iconTheme": "material-icon-theme",
+
     // files setting
     "files.associations": {
         "*.txt": "markdown",
@@ -29,5 +33,10 @@
     "python.linting.pep8Enabled": true,
     "python.linting.pep8Args": [
         "--max-line-length=120"
+    ],
+    // for Google Cloud SDK
+    "python.autoComplete.extraPaths": [
+        "{install google-cloud-sdk path}/platform/google_appengine",
+        "{install google-cloud-sdk path}/platform/google_appengine/lib"
     ]
 }
